@@ -56,11 +56,3 @@ The dashboard equips stakeholders with a **comprehensive view of Blinkit’s sal
 - 💡 Pricing & customer experience improvement  
 
 ---
-
-## 🔗 Repository Structure  
-```bash
-Blinkit-Sales-Analytics/
-│-- Blinkit.jpg          # Dashboard preview
-│-- Blinkit_Dashboard.pbix # Power BI file
-│-- data/                # Raw & cleaned datasets
-│-- README.md            # Project documentation
