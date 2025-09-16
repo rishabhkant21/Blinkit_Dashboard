@@ -48,11 +48,3 @@ This project presents an interactive **Power BI dashboard** analyzing sales, pro
 ![Blinkit Sales Dashboard](Blinkit.jpg)  
 
 ---
-
-## 📌 Outcome  
-The dashboard equips stakeholders with a **comprehensive view of Blinkit’s sales performance**, enabling data-driven strategies in:  
-- 📍 Outlet expansion  
-- 📦 Product category focus  
-- 💡 Pricing & customer experience improvement  
-
----
